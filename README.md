@@ -1,2 +1,2 @@
-# solidity-by-example
-Solidity By Example
+# Solidity By Example
+
