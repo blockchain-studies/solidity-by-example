@@ -13,7 +13,7 @@ contract Counter {
     }
 
     function dec() public {
-        if (count != 0) {
+        if (count > 0) {
             count -= 1;
         } else {
             count = 0;
